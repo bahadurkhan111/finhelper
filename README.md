@@ -16,7 +16,7 @@ FinHelper is a modern web application for visualizing and analyzing financial ma
 
 ## Demo
 
-![Dashboard Screenshot](public/placeholder.jpg)
+![Dashboard Screenshot](dashboard.png)
 
 ## Getting Started
 
